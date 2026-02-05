@@ -77,7 +77,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
-import networkx as nx
+# import networkx as nx
 
 # Try to import optional packages with graceful fallbacks
 try:
