@@ -1,0 +1,33 @@
+# Apollo/ENIGMA Portfolio Terminal v5.1 - Requirements
+
+# Core Dependencies
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.17.0
+yfinance>=0.2.28
+scipy>=1.11.0
+
+# Portfolio Optimization
+pyportfolioopt>=1.5.0
+
+# Data Visualization & Analysis
+seaborn>=0.12.0
+matplotlib>=3.7.0
+
+# Web & Data Processing
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Performance & Utilities
+tqdm>=4.65.0
+joblib>=1.3.0
+python-dateutil>=2.8.0
+pytz>=2023.0
+
+# Optional (for advanced features)
+# xlsxwriter>=3.1.0  # For Excel export
+# openpyxl>=3.1.0    # For Excel reading
+# pyarrow>=12.0.0    # For faster data processing
+# numba>=0.57.0      # For performance optimization
